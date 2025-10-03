@@ -1,0 +1,12 @@
+{
+  "name": "arindun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HSEADC/arindun.git",
+  "author": "dunchek <vasilevaevdokia875@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.4",
+    "webpack": "^5.102.0"
+  }
+}
