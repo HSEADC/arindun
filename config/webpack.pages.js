@@ -19,7 +19,7 @@ const htmlPages = [
     './src/pages/tests/whatrapperareyou.html',
     './pages/tests/whatrapperareyou.html'
   ),
-  createPages('./src/pages/articles/kanye.html', './pagesarticles/kanye.html')
+  createPages('./src/pages/articles/kanye.html', './pages/articles/kanye.html')
 ]
 
 module.exports = htmlPages
